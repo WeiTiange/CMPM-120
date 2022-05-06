@@ -15,7 +15,7 @@ class Load extends Phaser.Scene {
         this.load.image('talltrees', 'talltrees.png');
         this.load.image('ground', 'ground.png');
         this.load.image('cloud', 'white-cloud.png');
-
+        this.load.atlas('link_atlas', 'linksheet.png', 'linkmap.json');
         
 
     }
