@@ -1,0 +1,54 @@
+[
+    [
+        {
+            "speaker" : "firstWitch",
+            "dialog" : "When shall we three meet again In thunder, lightning, or in rain?",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "secondWitch",
+            "dialog" : "When the hurlyburly's done, When the battle's lost and won.",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "thirdWitch",
+            "dialog" : "That will be ere the set of sun.",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "firstWitch",
+            "dialog" : "Where the place?",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "secondWitch",
+            "dialog" : "Upon the heath.",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" :"thirdWitch",
+            "dialog" : "There to meet with Macbeth.",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "firstWitch",
+            "dialog" : "I come, Graymalkin!",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "secondWitch",
+            "dialog" : "Paddock calls.",
+            "newSpeaker" :"true"
+        },
+        {
+            "speaker" : "thirdWitch",
+            "dialog" : "Anon.",
+            "newSpeaker" : "true"
+        },
+        {
+            "speaker" : "all",
+            "dialog" : "Fair is foul, and foul is fair: Hover through the fog and filthy air.",
+            "newSpeaker" : "true"
+        }
+    ]
+]
